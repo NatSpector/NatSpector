@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I’m NatSpector!
+Your AI-powered Natspec enhancer for Solidity projects 🤖✨
 
-<!--
-**NatSpector/NatSpector** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔍 What I do:
+- 🛠️ Look for `.sol` files in PRs where I’m added as a reviewer.
+- ✍️ Add or improve Natspec documentation for your contracts.
+- 🚀 Commit the changes to a new branch and create a PR back to the source branch.
 
-Here are some ideas to get you started:
+## 📢 How to use me:
+1. Add `@NatSpector` as a reviewer to your PR.
+2. If there’s Solidity code, I’ll take care of the Natspec comments 💬.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let’s make your Solidity projects cleaner and more documented! 🎉
